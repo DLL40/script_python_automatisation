@@ -1,2 +1,3 @@
-# script_python_automatisation
+# Automatisation de tâches administratives en Python
 Création de mini-scripts afin d'optimiser le travail en automatisant certaines tâches les plus répétitives ou contraignantes
+
