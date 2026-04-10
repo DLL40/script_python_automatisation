@@ -11,16 +11,16 @@ def fusionner_pdfs(liste_fichiers, nom_sortie):
 
         fusionneur.write(nom_sortie)
         fusionneur.close()
-        print(f"\nSuccès ! Fichier crée : {nom_sortie}")
+        print(f"\nFusion réussie ! Le fichier {nom_sortie} a bien été créé")
 
     except Exception as e :
-       print(f"Erreur lors de la fusion : {e}")
+       print(f"Echec de la fusion des documents : {e}")
 
 # --- Application ---
 
 """
--Créer un dossier dédié (ex: Fusion_PDF) contenant ce script ainsi que les fichiers.pdf
--Nommer les documents à fusionner "document1.pdf" pour le premier et "document2.pdf" pour le second
+-Créer un dossier dédié (ex: Fusion_PDF) contenant ce script ainsi que les fichiers.pdf à fusionner
+-Nommer les documents à fusionner "document1.pdf" pour le premier et "document2.pdf" pour le second, ...
 -Le fichier pdf fusionner sera nommer "document_final.pdf"
 """
 
