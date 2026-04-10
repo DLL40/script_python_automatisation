@@ -7,8 +7,6 @@
 ---
 ### Fonctionnalités principales 
 
-**Configuration :** Avant de lancer le script, vous devez installer les bibliothèques nécessaires. Veuillez taper la commande suivante dans votre terminal : 'pip install -r install.txt'. Cette commande permet de lire le fichier install.txt contenant la liste des bibliothèques à installer pour utiliser les scripts ci-dessous.
-
 Fusion de Documents PDF
 
 - **Description :** Script permettant de fusionner plusieurs fichiers PDF se trouvant tous dans un même dossier.
@@ -26,3 +24,7 @@ Conversion de Formats
 - **Description :** 
 - **Bibliothèque importée :** 
 - **Utilisation :**
+
+### Configuration
+
+Avant de lancer le script, vous devez installer les bibliothèques nécessaires. Veuillez taper la commande suivante dans votre terminal : 'pip install -r install.txt'. Cette commande permet de lire le fichier install.txt contenant la liste des bibliothèques à installer pour utiliser les scripts ci-dessous.
