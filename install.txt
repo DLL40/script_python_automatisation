@@ -1,1 +1,1 @@
-pip install -r install.txt
+PyPDF2
