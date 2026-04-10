@@ -7,7 +7,7 @@ L'objectif est de gagner en efficacité tout en réduisant le risque d'erreurs m
 ### Fonctionnalités principales 
 Fusion de Documents PDF
 
-- Description : Script permettant de fusionner plusieurs fichiers PDF se trouvant tous dans un même dossier.
-- Bibliothèque importée : PyPDF2
-- Installation : Avant de lancer le script, vous devez installer la bibliothèque nécessaire. Veuillez taper la commande suivante dans votre terminal : 'pip install -r install.txt'
-- Utilisation : Permet de fusionner des rapports, des factures ou des dossiers d'inscription après modification manuelle (ex: signature manuscrite)
+- **Description :** Script permettant de fusionner plusieurs fichiers PDF se trouvant tous dans un même dossier.
+- **Bibliothèque importée :** PyPDF2
+- **Installation :** Avant de lancer le script, vous devez installer la bibliothèque nécessaire. Veuillez taper la commande suivante dans votre terminal : 'pip install -r install.txt'
+-**Utilisation :** Permet de fusionner des rapports, des factures ou des dossiers d'inscription après modification manuelle (ex: signature manuscrite)
