@@ -5,7 +5,7 @@
  
 ↪️Création d'un ensemble de mini-scripts afin d'optimiser le travail en automatisant certaines tâches les plus répétitives ou contraignantes.
 
-🎯 L'objectif est de gagner en **efficacité** tout en **réduisant le risque d'erreurs manuelles**
+ <p align="center">🎯 L'objectif est de gagner en **efficacité** tout en **réduisant le risque d'erreurs manuelles**</p>
 
 ---
 ### ▶️Configuration
