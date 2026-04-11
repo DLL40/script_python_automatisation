@@ -16,7 +16,7 @@ def fusionner_pdfs(liste_fichiers, nom_sortie):
     except Exception as e :
        print(f"Echec de la fusion des documents : {e}")
 
-# --- Application ---
+# Application
 
 """
 -Créer un dossier dédié (ex: Fusion_PDF) contenant ce script ainsi que les fichiers.pdf à fusionner
