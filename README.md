@@ -8,6 +8,7 @@
 ### ▶️Configuration
 
 Avant de lancer le script, vous devez installer les bibliothèques nécessaires. Veuillez taper la commande suivante dans votre terminal : 'pip install -r install.txt'. Cette commande permet de lire le fichier install.txt contenant la liste des bibliothèques à installer pour utiliser les scripts ci-dessous.
+
 ---
 ### ▶️Fonctionnalités principales 
 
