@@ -15,7 +15,7 @@ Avant de lancer le script, vous devez installer les bibliothèques nécessaires.
 
 ↪️**Fusion de Documents PDF**
 
-- **Description :** Script permettant de fusionner plusieurs fichiers PDF se trouvant tous dans un même dossier.
+- <u>**Description :**<u> Script permettant de fusionner plusieurs fichiers PDF se trouvant tous dans un même dossier.
 - **Bibliothèque importée :** PyPDF2
 - **Utilisation :** Permet de fusionner des rapports, des factures ou des dossiers d'inscription après modification manuelle (ex: signature manuscrite)
 
