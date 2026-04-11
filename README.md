@@ -1,4 +1,7 @@
 # <p align="center"> Automatisation de tâches en Python </p>
+<br>
+
+---
  
 ↪️Création d'un ensemble de mini-scripts afin d'optimiser le travail en automatisant certaines tâches les plus répétitives ou contraignantes.
 
