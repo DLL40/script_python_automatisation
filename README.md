@@ -19,11 +19,18 @@ Traduction Automatique
 - **Bibliothèque importée :** 
 - **Utilisation :**
 
-Conversion de Formats 
+Conversion de fichier.pdf en fichier.docx 
 
-- **Description :** 
-- **Bibliothèque importée :** 
-- **Utilisation :**
+- **Description :** Script permettant de convertir un fichier PDF en un document word exploitable 
+- **Bibliothèque importée :** pdf2docx
+- **Utilisation :** Permet de convertir un document PDF afin de le modifier ou de le traduire
+
+Conversion image en PDF
+
+- **Description :**  
+- **Bibliothèque importée :**
+- **Utilisation :** 
+
 
 ### Configuration
 
