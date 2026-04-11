@@ -5,7 +5,11 @@
 🎯 L'objectif est de gagner en **efficacité** tout en **réduisant le risque d'erreurs manuelles**
 
 ---
-### Fonctionnalités principales 
+### ▶️Configuration
+
+Avant de lancer le script, vous devez installer les bibliothèques nécessaires. Veuillez taper la commande suivante dans votre terminal : 'pip install -r install.txt'. Cette commande permet de lire le fichier install.txt contenant la liste des bibliothèques à installer pour utiliser les scripts ci-dessous.
+---
+### ▶️Fonctionnalités principales 
 
 Fusion de Documents PDF
 
@@ -13,11 +17,11 @@ Fusion de Documents PDF
 - **Bibliothèque importée :** PyPDF2
 - **Utilisation :** Permet de fusionner des rapports, des factures ou des dossiers d'inscription après modification manuelle (ex: signature manuscrite)
 
-Traduction Automatique
+Traduction Automatique d'un texte
 
-- **Description :** 
-- **Bibliothèque importée :** 
-- **Utilisation :**
+- **Description :** Script permettant de traduire du texte dans la langue souhaitée en renseigneant le code langue correspondant (ex : en = anglais, fr = français, es = espagnol, de = allemand, it = italien)
+- **Bibliothèque importée :** deep-translator
+- **Utilisation :** Permet de traduire des phrases ou des paragraphes en les tapant manuellement ou avec un copier/coller  
 
 Conversion de fichier.pdf en fichier.docx 
 
@@ -32,6 +36,4 @@ Conversion image en PDF
 - **Utilisation :** 
 
 
-### Configuration
 
-Avant de lancer le script, vous devez installer les bibliothèques nécessaires. Veuillez taper la commande suivante dans votre terminal : 'pip install -r install.txt'. Cette commande permet de lire le fichier install.txt contenant la liste des bibliothèques à installer pour utiliser les scripts ci-dessous.
