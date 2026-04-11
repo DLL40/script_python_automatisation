@@ -10,8 +10,13 @@ def convert_pdf_en_word(document_pdf,document_word):
     except Exception as e:
         print(f"Une erreur est survenue : {e}")
 
-# Utilisation
+# Application
 
+"""
+-Créer un dossier dédié (ex: Convert_PDF) contenant ce script ainsi que le fichier.pdf à convertir
+-Nommer le document à convertir "document.pdf"
+-Le nouveau fichier.docx sera nommer "document_word.docx"
+"""
 doc_pdf="document_pdf.pdf"
 doc_word="document_word.docx"
 
