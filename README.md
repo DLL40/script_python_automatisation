@@ -11,7 +11,7 @@ Avant de lancer le script, vous devez installer les bibliothèques nécessaires.
 
 ---
 ### ▶️Fonctionnalités principales 
-<br>
+/n
 ↪️**Fusion de Documents PDF**
 
 - **Description :** Script permettant de fusionner plusieurs fichiers PDF se trouvant tous dans un même dossier.
