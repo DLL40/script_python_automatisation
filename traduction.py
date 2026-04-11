@@ -1,6 +1,8 @@
 from deep_translator import GoogleTranslator
 
-def traduire_texte(texte,source='auto',cible=''):
+def traduire_texte(texte,source='auto',cible=None):
+    if not cible: 
+        return "Veuillez renseigner le code langue"
     try:
         traducteur=GoogleTranslator(source=source, target=cible)
         resultat_traduction=traducteur.translate(texte)
