@@ -16,5 +16,10 @@ def compresseur_pdf(document_initial, document_final) :
     print(f"Le fichier compressé {document_final} a bien été sauvegardé")
 
 # Application
+"""
+-Créer un dossier dédié (ex: Compression_PDF) contenant ce script ainsi que le fichier.pdf à compresser
+-Nommer le document à compresser "document_a_compresser.pdf" 
+-Le fichier pdf compressé sera nommer "document_reduit.pdf"
+"""
 
 compresseur_pdf("document_a_compresser.pdf", "document_reduit.pdf")
